@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Machine Learning**
 
-- 🤝 I'm always willing to **learn** and do my **best in everything I do**
+- 🤝 I'm always willing to **learn** and do my **best in everything**
 
 - 💬 My Favourite Language: **Python** & **PHP**
 
